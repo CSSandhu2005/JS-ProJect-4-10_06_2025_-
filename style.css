@@ -1,0 +1,13 @@
+* { 
+  padding : 0 ; 
+  margin : 0 ; 
+  box-sizing : border-box ; 
+  font-family : Helvetica ; 
+}
+
+html , body { 
+  height : 100vh ; 
+  width : 100% ; 
+  background-color : rgb(136, 136, 255) ; 
+  color : rgb(255, 248, 184) ; 
+}
